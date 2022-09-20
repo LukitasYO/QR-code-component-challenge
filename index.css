@@ -1,0 +1,6 @@
+:root {
+    --ligth-gray: hsl(212, 45%, 89%);
+}
+body {
+    background-color: var(--ligth-gray);
+}
